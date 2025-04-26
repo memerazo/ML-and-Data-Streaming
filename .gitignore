@@ -1,5 +1,5 @@
 # Entorno virtual
-workshop3_env/
+venv/
 
 # Archivos temporales de Python
 __pycache__/
@@ -9,16 +9,13 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datos sensibles
-data/raw/*
 config/credentials.json
 
 # Archivos de base de datos
-database/*
+
 
 # Archivos generados
-results/plots/*
-models/*
-deliverable/*
+
 
 # Archivos de Kafka
 kafka_3.6.0/
