@@ -15,7 +15,7 @@ config/credentials.json
 
 
 # Archivos generados
-
+venv/
 
 # Archivos de Kafka
 kafka_3.6.0/
